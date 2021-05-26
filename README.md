@@ -120,4 +120,23 @@ Para nuestro proyecto utilizamos un modelo
 Diseño de base de datos
 Para la base de datos utilizaremos MySQL.
 Base de datos relacional
+
+Manual de uso
+Login
+Para entrar deberás ingresar tu usuario y contraseña y dar click en el botón de “Login”, de no tener registrado tu usuario y contraseña deberás hacer click en “Registrar nuevo usuario”, una vez que se despliega el nuevo formato, deberás ingresar tu correo y contraseña y hacer click en “Registrar”.
+Para crear un nuevo registro
+Hacer click en el botón de “Crear nuevo registro”, una vez que se despliega la ventana emergente se desplegara un formato con los campos: id, agricultor, variedad, ubicación, insumos, fotos. Deberás ingresar todos los campos, a excepción del de fotos, ese campo es opcional. Una vez que termines de llenar cada campo deberás hacer click en “Guardar”, esto automáticamente guardara la información en la base de datos y podrás ver desplegado tu nuevo registro en el grid principal.
+Para actualizar un registro.
+Deberás hacer click en el registro que desees actualizar, una vez que des click aparecerá una venta emergente con los campos existentes y sus datos. Deberás hacer click en el campo que desees actualizar y agregar la información que desees corregir. Una vez hecho esto puedes proseguir a dar click en el botón “Actualizar”.
+
+Para eliminar un registro.   
+Deberás hacer click en el registro que desees eliminar, una que des click aparecerá una ventana emergente con un botón que dice ”Eliminar registro”, hacer click en el botón eliminar y tu registro dejara de aparecer en el grid principal.
+
+Contribución
+Para contribuir con el desarrollo del proyecto es preciso que se haga una bifurcación del proyecto.
+Deberás realizar una clonación del proyecto en el que deseas trabajar. 
+Deberás realizar cambios o fixes en el proyecto.
+Una vez que tengas todo listo y verificado deberás asignar el repositorio al cual deseas hacer el pull request de tu proyecto.
+Una vez que el autor original este conforme con tus cambios podrá hacer un merge del proyecto y agregará tus cambios al proyecto original.  
+
   
